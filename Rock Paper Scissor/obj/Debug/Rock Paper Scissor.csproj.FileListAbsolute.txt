@@ -1,0 +1,8 @@
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\bin\Debug\Rock Paper Scissor.exe.config
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\bin\Debug\Rock Paper Scissor.exe
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\bin\Debug\Rock Paper Scissor.pdb
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\obj\Debug\Rock Paper Scissor.csproj.AssemblyReference.cache
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\obj\Debug\Rock Paper Scissor.csproj.SuggestedBindingRedirects.cache
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\obj\Debug\Rock Paper Scissor.csproj.CoreCompileInputs.cache
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\obj\Debug\Rock Paper Scissor.exe
+C:\Users\320231579\source\repos\Rock Paper Scissor\Rock Paper Scissor\obj\Debug\Rock Paper Scissor.pdb
